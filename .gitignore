@@ -1,0 +1,11 @@
+.DS_Store
+.Rhistory
+.RData
+.quarto/
+_freeze/
+R-lib/
+data/*.dat
+data/*.dat.gz
+data/*.csv.gz
+data/*.xml
+
